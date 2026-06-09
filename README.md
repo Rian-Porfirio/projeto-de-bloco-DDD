@@ -1,3 +1,6 @@
+# Explicação video
+[Explicação](https://drive.google.com/file/d/1xjA0Y-FxpWfGAHwfL9efFNOg_zC_DclZ/view?usp=sharing)
+
 # Comparador de Fretes
 
 Aplicação full stack para cálculo e comparação de fretes entre transportadoras, inspirada na experiência dos Correios (SEDEX/PAC). O usuário informa origem, destino e as dimensões da encomenda e recebe as opções disponíveis, com destaque para a **mais barata**, a **mais rápida** e a de **melhor custo-benefício**.
